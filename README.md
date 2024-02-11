@@ -28,7 +28,7 @@ I am a student studying at the Modi Institute of Management & Technology. From v
 Thanks for stopping by! 😁
 
 
-⭐️ From [Sarthakbh321](https://github.com/GouravMalviya445)
+⭐️ From [GouravMalviya445](https://github.com/GouravMalviya445)
 
 
 <!--
