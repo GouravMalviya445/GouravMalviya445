@@ -11,7 +11,7 @@ I am a student studying at the Modi Institute of Management & Technology. From v
 	- Some Java
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
-	- Tailwind
+	- Tailwind CSS
 	- React
 
 ## What I want to do next :thinking:
