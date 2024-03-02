@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-<img src="https://i.postimg.cc/7P2MNq5d/banner.jpg" alt="Banner"/>
+<img src="https://i.postimg.cc/fRTyWyKS/Linked-In-cover-1.png" alt="Banner"/>
 
 ## Hi there 👋
 
