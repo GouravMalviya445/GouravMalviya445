@@ -1,4 +1,7 @@
 # Welcome to my GitHub! 👋
+
+<img src="https://i.postimg.cc/7P2MNq5d/banner.jpg" alt="Banner"/>
+
 ## Hi there 👋
 
 ### About me :
