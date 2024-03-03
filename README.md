@@ -24,7 +24,7 @@ I am a student studying at the Modi Institute of Management & Technology. From v
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/GouravMalviya445?label=Follow&style=social)](https://github.com/GouravMalviya445)
 [![Instagram](https://img.shields.io/badge/-@https.gouravxx._-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/https.gouravxx._/)](https://www.instagram.com/https.gouravxx._/)
-[![Mail](https://img.shields.io/badge/-gouravmalviya445@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/gouravmalviya/)](mailto:gouravmalviya445@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravmalviya445@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/GouravMalviya44)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouravmalviya/)
 
