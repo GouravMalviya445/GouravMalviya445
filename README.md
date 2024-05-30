@@ -9,10 +9,10 @@ I am a student studying at the Modi Institute of Management & Technology. From v
 
 ## What I know :
 - **Programming **
-	- Python 
-	- C
-	- Some Java
-- **Frontend Development**
+	- Python
+	- Java
+	- DSA
+- **Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Tailwind CSS
 	- React
@@ -22,7 +22,7 @@ I am a student studying at the Modi Institute of Management & Technology. From v
 - At least delve into AI and ML.
 
 ## Reach me 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/GouravMalviya44)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gouravdotcom/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouravmalviya/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravmalviya445@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/https.gouravxx._/)
