@@ -11,7 +11,7 @@ I am a student studying at the Modi Institute of Management & Technology. From v
 	- Java
 	- DSA
 - **Development**
-	- MERN Stack:white_check_mark:
+	- MERN Stack:white_check_mark:-
   	- Exploring the Web3 technology
 
 ## What I want to do next :thinking:
