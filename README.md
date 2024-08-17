@@ -1,7 +1,5 @@
 # Welcome to my GitHub! 👋
 
-<img src="https://i.postimg.cc/jSsjVggt/banner.png" alt="Banner"/>
-
 ## Hi there 👋
 
 ### About me :
@@ -13,13 +11,12 @@ I am a student studying at the Modi Institute of Management & Technology. From v
 	- Java
 	- DSA
 - **Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Tailwind CSS
-	- React
+	- MERN Stack:white_check_mark:
+        - Exploring the Web3 technology
 
 ## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
-- At least delve into AI and ML.
+- Want to build a decentralized wallet
+
 
 ## Reach me 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gouravdotcom/)
