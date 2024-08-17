@@ -12,7 +12,7 @@ I am a student studying at the Modi Institute of Management & Technology. From v
 	- DSA
 - **Development**
 	- MERN Stack:white_check_mark:
-        - Exploring the Web3 technology
+  	- Exploring the Web3 technology
 
 ## What I want to do next :thinking:
 - Want to build a decentralized wallet
