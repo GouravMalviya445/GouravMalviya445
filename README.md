@@ -2,8 +2,8 @@
 
 ## Hi there, My name is Gourav Malviya 👋
 
-## What I know: MERN Stack / Nextjs full stack
-## Exploring Devops
+ What I know: MERN Stack / Next.js full stack
+ Exploring Devops
 
 ## Reach me 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gouravdotcom/)
