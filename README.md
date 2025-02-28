@@ -1,22 +1,9 @@
 # Welcome to my GitHub! 👋
 
-## Hi there 👋
+## Hi there, My name is Gourav Malviya 👋
 
-### About me :
-I am a student studying at the Modi Institute of Management & Technology. From very early on in my life, I started to fall in love with technology. This love has helped me develop an excellent technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
-
-## What I know :
-- **Programming **
-	- Python
-	- Java
-	- DSA
-- **Development**
-	- MERN Stack
-  	- Exploring the Web3 technology
-
-## What I want to do next :thinking:
-- Want to build a decentralized wallet
-
+## What I know: MERN Stack / Nextjs full stack
+## Exploring Devops
 
 ## Reach me 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gouravdotcom/)
