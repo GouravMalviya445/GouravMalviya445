@@ -1,17 +1,26 @@
-# Welcome to my GitHub! 👋
+# Hi, I'm Gourav Malviya 👋
 
-## Hi there, My name is Gourav Malviya 👋
+## About Me
 
- What I know: MERN Stack / Next.js full stack <br/>
- Currently Exploring DevOps
+* I'm passionate about full stack web development.
+* Currently located in Kota, India.
 
-## Reach me 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/gouravdotcom/)
+## My Tech Stack
+
+* **Languages:** JavaScript, TypeScript
+* **Frameworks/Libraries:** React, Node.js, Express.js, MongoDB, Next.js, PostgreSQL
+* **Tools:** Git, Docker, TurboRepo, Monorepos
+
+## Currently Learning
+
+* DevOps principles and practices.
+
+## Connect with me
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/gouravdotcom/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouravmalviya/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravmalviya445@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/https.gouravxx._/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GouravMalviya445)
 
 Thanks for stopping by! 😁
 
